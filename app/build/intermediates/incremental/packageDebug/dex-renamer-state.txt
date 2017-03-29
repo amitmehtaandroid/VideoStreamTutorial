@@ -1,0 +1,7 @@
+#Fri Nov 04 15:42:50 IST 2016
+base.0=/Users/AmitMehta/Desktop/27oct/VideoStreamTutorial/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8cc41a42b0108d6c9fd773bc400617fe17ba21fc
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/AmitMehta/Desktop/27oct/VideoStreamTutorial/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_34c702b4bd3cbcbfd19d20f503ff352f84b31f95/classes.dex
+base.1=/Users/AmitMehta/Desktop/27oct/VideoStreamTutorial/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_34c702b4bd3cbcbfd19d20f503ff352f84b31f95
+file.0=/Users/AmitMehta/Desktop/27oct/VideoStreamTutorial/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8cc41a42b0108d6c9fd773bc400617fe17ba21fc/classes.dex

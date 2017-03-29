@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/AmitMehta/Desktop/27oct/VideoStreamTutorial/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="/Users/AmitMehta/Desktop/27oct/VideoStreamTutorial/app/build/intermediates/transforms/dex/debug/folders/1000/2/YouTubeAndroidPlayerApi_c9fc06cf1f2caa0424f2eda918d2d60dcf41cc15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AmitMehta/Desktop/27oct/VideoStreamTutorial/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="34a781b49c24ecff3169d05e7dfb81663168f7ed">
+        <dex dex="/Users/AmitMehta/Desktop/27oct/VideoStreamTutorial/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8cc41a42b0108d6c9fd773bc400617fe17ba21fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AmitMehta/Desktop/27oct/VideoStreamTutorial/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fa944587f2cd24f7ad9c30259d333faa2022e109">
+        <dex dex="/Users/AmitMehta/Desktop/27oct/VideoStreamTutorial/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_34c702b4bd3cbcbfd19d20f503ff352f84b31f95/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/AmitMehta/Desktop/27oct/VideoStreamTutorial/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/AmitMehta/Desktop/27oct/VideoStreamTutorial/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/AmitMehta/Desktop/27oct/VideoStreamTutorial/app/build/intermediates/res/merged/debug/layout/videoview_main.xml",
+        "source": "/Users/AmitMehta/Desktop/27oct/VideoStreamTutorial/app/src/main/res/layout/videoview_main.xml"
+    },
+    {
+        "merged": "/Users/AmitMehta/Desktop/27oct/VideoStreamTutorial/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Users/AmitMehta/Desktop/27oct/VideoStreamTutorial/app/src/main/res/layout/activity_login.xml"
+    }
+]
